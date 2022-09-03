@@ -2,7 +2,7 @@
 Власний проект:
 https://sergantstar.github.io/goit-markup-hw-08/
 Командний проект обмежений 1 тижнем.
-soteach.github.io/team18-project/
+https://soteach.github.io/team18-project/
 
 Мій досвід із JS, із використанням бібліотек, GIT, та API сервісів:
 Власний проект
