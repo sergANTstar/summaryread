@@ -14,7 +14,7 @@ https://dmytrovoitovych.github.io/pr/
 Власний проект
 https://github.com/sergANTstar/goit-react-hw-05-movies
 https://github.com/sergANTstar/goit-react-hw-03-image-finder.git
-https://github.com/sergANTstar/goit-react-hw-04-phonebook.git
+https://github.com/sergANTstar/goit-react-hw-08-phonebook.git
 
 Я цілеспрямований і амбітний завжди розвиваюсь та навчаюсь чогось нового, із моїм попереднім досвідом роботи в інших галузях можна ознайомитися ось тут: 
 https://sergantstar.github.io/summary/
