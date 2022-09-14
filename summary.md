@@ -13,8 +13,7 @@
 
 [Власний проект, пошук картинок на класах.](https://github.com/sergANTstar/goit-react-hw-03-image-finder.git)
 
-[Власний проект, книга контактів із регістрацією.](https://github.com/sergANTstar/goit-react-hw-08-phonebook.git
-)
+[Власний проект, книга контактів із регістрацією.](https://github.com/sergANTstar/goit-react-hw-08-phonebook.git)
 
 # Я цілеспрямований і амбітний, завжди розвиваюсь та навчаюсь чогось нового, із моїм попереднім досвідом роботи в інших галузях можна ознайомитися ось тут: 
 [резюме](https://sergantstar.github.io/summary/)
